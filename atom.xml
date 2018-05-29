@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://liujiantao.me/"/>
-  <updated>2018-05-28T16:37:07.682Z</updated>
+  <updated>2018-05-29T01:27:34.452Z</updated>
   <id>http://liujiantao.me/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://liujiantao.me/2018/05/29/%E4%B8%8A%E6%B5%B7-%E8%83%B6%E7%89%87%E6%91%84%E5%BD%B1%E5%B1%95%E7%A4%BA/"/>
     <id>http://liujiantao.me/2018/05/29/上海-胶片摄影展示/</id>
     <published>2018-05-28T16:31:15.000Z</published>
-    <updated>2018-05-28T16:37:07.682Z</updated>
+    <updated>2018-05-29T01:27:34.452Z</updated>
     
     <content type="html"><![CDATA[<h2 id="胶片摄影"><a href="#胶片摄影" class="headerlink" title="胶片摄影"></a>胶片摄影</h2><p>摄于中国-上海</p><p>器材:奥林巴斯OM-1</p><p>镜头:OM 50mm F/1.4</p><p>胶片：Agfa200</p><p><img src="/2018/05/29/上海-胶片摄影展示/SH-Img1.jpg" alt="1"><br><img src="/2018/05/29/上海-胶片摄影展示/SH-Img2.jpg" alt="2"><br><img src="/2018/05/29/上海-胶片摄影展示/SH-Img3.jpg" alt="3"><br><img src="/2018/05/29/上海-胶片摄影展示/SH-Img4.jpg" alt="4"><br><img src="/2018/05/29/上海-胶片摄影展示/SH-Img5.jpg" alt="5"><br><img src="/2018/05/29/上海-胶片摄影展示/SH-Img6.jpg" alt="6"></p>]]></content>
     
@@ -31,6 +31,8 @@
     </summary>
     
     
+      <category term="摄影" scheme="http://liujiantao.me/tags/%E6%91%84%E5%BD%B1/"/>
+    
   </entry>
   
   <entry>
@@ -38,7 +40,7 @@
     <link href="http://liujiantao.me/2018/05/29/05-28%E9%9A%8F%E8%AE%B0/"/>
     <id>http://liujiantao.me/2018/05/29/05-28随记/</id>
     <published>2018-05-28T16:04:32.000Z</published>
-    <updated>2018-05-28T16:27:06.901Z</updated>
+    <updated>2018-05-29T01:41:41.085Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/2018/05/29/05-28随记/resume-head.png" alt="Taotao"></p><h2 id="刘建涛涛涛"><a href="#刘建涛涛涛" class="headerlink" title="刘建涛涛涛"></a>刘建涛涛涛</h2><p>我是一个对设计和摄影由衷热爱、有趣的设计师。</p><h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>我是一名大一在读学生，爱好摄影，专业是环境设计，是一名未来的设计师，梦想是当上美食博主，可现在还只是一名摄影博主。</p><p>以前爱好编程，一些个人项目放在<a href="https://github.com/liujiantaoliu" target="_blank" rel="external">Github</a></p><h2 id="个人"><a href="#个人" class="headerlink" title="个人"></a>个人</h2><ul><li><a href="http://weibo.com/taoge315" target="_blank" rel="external">照片展示</a></li><li><a href="https://me.liujiantao.me/" target="_blank" rel="external">简历</a></li><li><a href="https://github.com/liujiantaoliu" target="_blank" rel="external">Github</a></li></ul><h2 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h2><p>欢迎通过以下方式和我取得联系</p><ul><li>邮件(blog-315delete#gmail.com, 把#换成@)</li><li>QQ: 372075300</li><li>weibo: <a href="http://weibo.com/taoge315" target="_blank" rel="external">@刘建涛涛涛</a></li></ul><h2 id="作品"><a href="#作品" class="headerlink" title="作品"></a>作品</h2><p><img src="/2018/05/29/05-28随记/1.jpg" alt="Taotao"><br><img src="/2018/05/29/05-28随记/2.jpg" alt="Taotao"></p>]]></content>
     
@@ -49,6 +51,8 @@
     </summary>
     
     
+      <category term="随记" scheme="http://liujiantao.me/tags/%E9%9A%8F%E8%AE%B0/"/>
+    
   </entry>
   
   <entry>
@@ -56,7 +60,7 @@
     <link href="http://liujiantao.me/2017/07/14/hello/"/>
     <id>http://liujiantao.me/2017/07/14/hello/</id>
     <published>2017-07-14T14:07:57.000Z</published>
-    <updated>2017-07-15T07:35:16.000Z</updated>
+    <updated>2018-05-29T01:41:33.659Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Hello-Hexo"><a href="#Hello-Hexo" class="headerlink" title="Hello Hexo"></a>Hello Hexo</h2><p>今天把博客转移到<a href="http://liujiantao.me">Github</a>上，之前的博客就当是过去了吧</p><h3 id="这篇文章由Hexo生成"><a href="#这篇文章由Hexo生成" class="headerlink" title="这篇文章由Hexo生成"></a>这篇文章由Hexo生成</h3><p>以后都直接使用这个发布文章了</p><h3 id="今后计划"><a href="#今后计划" class="headerlink" title="今后计划"></a>今后计划</h3><p>以后呢，大部分东西偏向自己的一个展示吧，过完这个暑假也正式成为一名大学生了！</p><hr><h2 id="More"><a href="#More" class="headerlink" title="More"></a>More</h2><p>微博：<a href="https://weibo.com/taoge315" target="_blank" rel="external">@刘建涛涛涛</a></p><p>Telegram：<a href="https://t.me/LiuJiantao" target="_blank" rel="external">@LiuJiantao</a></p>]]></content>
     
@@ -66,6 +70,8 @@
     
     </summary>
     
+    
+      <category term="随记" scheme="http://liujiantao.me/tags/%E9%9A%8F%E8%AE%B0/"/>
     
   </entry>
   
